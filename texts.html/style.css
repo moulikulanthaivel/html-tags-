@@ -1,0 +1,102 @@
+.title1{
+
+font-size: xx-large
+
+}
+
+.did{
+    text-underline-position: below;
+  color: rgb(255, 21, 0);  
+  cursor: pointer;
+
+}
+
+.did:hover{
+
+    
+}
+
+.did:active{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.yt{
+    width: 200px;
+    border-radius: 300px;
+    
+    object-fit: contain;
+
+
+
+}
+
+.tik{
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px;
+    border-style: solid;
+}
+
+.one,.two,.three,.four,.five,.six{
+
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.one{
+color: rgb(0, 81, 255);
+}
+
+.two{
+color: rgb(255, 0, 0);
+}
+
+.three{
+color: rgb(255, 183, 0);
+}
+
+.four{
+ color:    rgb(0, 81, 255);
+}
+.five{
+color: green;
+}
+.six{
+    color: rgb(255, 0, 0); 
+}
+
+.box1{
+
+    border: 1px;
+    border-style: solid;
+    color: rgb(255, 234, 234);
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 70px;
+    background-color: black;
+}
+
+.syn1{
+   
+
+
+}
+.syn2{
+    display: inline-block;
+    width: 5px;
+}
+
+.img1{
+
+    width: 500px;
+    display: inline-block;
+
+}
+
+.img2{
+
+
+}
